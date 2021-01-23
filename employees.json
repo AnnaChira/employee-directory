@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Amy Chan",
+      "position": "Software Developer",
+      "email": "achan@employee.com",
+      "department": "Product"
+    },
+    {
+      "id": 2,
+      "name": "Alex Smith",
+      "position": "UX Designer",
+      "email": "amsith@employee.com",
+      "department": "Product"
+    },
+    {
+      "id": 3,
+      "name": "Emma Song",
+      "position": "Developer Lead",
+      "email": "esong@employee.com",
+      "department": "Product"
+    },
+    {
+      "id": 4,
+      "name": "Hannah Kirk",
+      "position": "HR Associate",
+      "email": "hkirk@employee.com",
+      "department": "HR Department"
+    },
+    {
+      "id": 5,
+      "name": "Chris Burnett",
+      "position": "Project Manager",
+      "email": "cburnett@employee.com",
+      "department": "Operations Department"
+    },
+    {
+      "id": 6,
+      "name": "Doug Kim",
+      "position": "Project Analyst",
+      "email": "dkim@employee.com",
+      "department": "Operations Department"
+    },
+    {
+      "id": 7,
+      "name": "Judy Lane",
+      "position": "HR Manager",
+      "email": "jlane@employee.com",
+      "department": "HR Department"
+    },
+    {
+      "id": 8,
+      "name": "Gwen Bravo",
+      "position": "CEO",
+      "email": "gbravo@employee.com",
+      "department": "Executive Department"
+    },
+    {
+      "id": 9,
+      "name": "Tommy Smith",
+      "position": "Software Developer",
+      "email": "tmsith@employee.com",
+      "department": "Product"
+    },
+    {
+      "id": 10,
+      "name": "Richard Lane",
+      "position": "Business Analyst",
+      "email": "rlane@employee.com",
+      "department": "Product"
+    },
+    {
+      "id": 11,
+      "name": "Greg Rietz",
+      "position": "Project Manager",
+      "email": "grietz@employee.com",
+      "department": "Operations Department"
+    },
+    {
+      "id": 12,
+      "name": "Koji Nakamura",
+      "position": "COO",
+      "email": "kanakmura@employee.com",
+      "department": "Executive Department"
+    }
+  ]
+  
